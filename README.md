@@ -94,4 +94,3 @@ https://pokeapi.co/
 - Stats, Moves, Abilities  
 - Clean and modern UI  
 
->>>>>>> 1b3d2f3802237bd0e3bbdc2df0382c6143eba5ce
