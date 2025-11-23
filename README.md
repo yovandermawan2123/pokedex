@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Pokedex App – Flutter
 
 A simple Flutter application built using the PokéAPI.  
